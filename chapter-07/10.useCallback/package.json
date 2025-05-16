@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "learning-react-useeffect-10": "file:",
     "react": "16.8.0",
     "react-dom": "16.8.0",
     "react-scripts": "3.0.1"
